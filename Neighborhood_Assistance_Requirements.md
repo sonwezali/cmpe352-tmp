@@ -31,9 +31,9 @@
 ### **1.1 User Requirements**
 
 #### **1.1.1 Registration/Login**
-- Users shall be able to **register** using their email address or social media accounts.
-- Registered users shall be able to **log in** using their credentials.
-- The system shall provide **password recovery** options for users.
+1.1.1.1 Users shall be able to **register** using their email address or social media accounts.
+1.1.1.2 Registered users shall be able to **log in** using their credentials.
+1.1.1.3 The system shall provide **password recovery** options for users.
 
 #### **1.1.2 Guest User**
 - Guest users shall be able to **view public assistance requests** but cannot interact with them.
