@@ -34,7 +34,7 @@
 
 <a name="registrationlogin"></a>
 #### **1.1.1 Registration/Login**
-- 1.1.1.1 Users shall be able to **register** using their email address or social media accounts.
+- 1.1.1.1 Users shall be able to **register** using their email address.
 - 1.1.1.2 Registered users shall be able to **log in** using their credentials.
 - 1.1.1.3 The system shall provide **password recovery** options for users.
 
